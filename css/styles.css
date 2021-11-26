@@ -1,5 +1,5 @@
 html,body,header,
-.landing page {
+.landing  {
   overflow-x: hidden;
   height: 100%;
   scroll-behavior: smooth;
@@ -47,8 +47,8 @@ nav .navbar{
   font-weight: 700;
 }
 
-.landing page {
-  background-image: url("../images/slider2.jpg");
+.landing {
+  background-image: url("../images/pizzapacking.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -138,7 +138,7 @@ nav .navbar{
 }
 .order{
   background-attachment: fixed;
-  background-image: url("../images/slider2.jpg");
+  background-image: url("../images/pizzapacking.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
