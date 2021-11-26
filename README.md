@@ -11,7 +11,7 @@ This is a pizza delivery web application that allows the user/customer to select
  git clone https://github.com/FidelisMomanyi/Pizza-Inn.git
 * Open the project with your perfect Intergrated Development Environment (IDE)
 ## Live link
-
+https://fidelismomanyi.github.io/Pizza-Inn/
 ## Known Bugs
 * All toppings has the same price regardless of the pizza size.
 * Some picures are not aligned equally per shape.
